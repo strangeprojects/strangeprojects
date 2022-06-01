@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jfrancojr 🇧🇷
-- 🔭 I’m currently working on Brazil
+- 🔭 I’m currently working in Brazil
 - 🌱 I’m currently learning flutter and dart
 - 👯 I’m looking to collaborate in the community
 - ⚡ Fun fact: I like a coffee
